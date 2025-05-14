@@ -1,0 +1,2 @@
+Data(iris)
+summary(iris)

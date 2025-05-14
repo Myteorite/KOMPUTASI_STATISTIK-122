@@ -1,3 +1,4 @@
 a = rnorm(800)
+b= rnomt(800, mean=5)
 summary(a)
 str(800)
