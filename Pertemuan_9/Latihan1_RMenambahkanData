@@ -1,6 +1,6 @@
 #Membuat data frame
 Nama=c("Adit", "Denis", "Sopo", "Jarwo", "Mang Ujang")
-Tugas=c("MC", "Beban", "Pemeran pembantu", "Antagonis pertama", "Kang Bakso")
+Tugas=c("MC", "Teman adit", "Pemeran pembantu", "Antagonis pertama", "Kang Bakso")
 Nilai_Sikap=c(100,-200,80,40,90)
 DF_ASJ <- data.frame(Nama,Tugas, Nilai_Sikap)
 hist(Nilai_Sikap)
