@@ -1,0 +1,4 @@
+#Membuat data frame
+Nama=c("Adit", "Denis", "Sopo", "Jarwo", "Mang Ujang")
+Tugas=c("MC", "Beban", "Pemeran pembantu", "Antagonis pertama", "Kang Bakso")
+ASJ <- data.frame(Nama,Tugas)
